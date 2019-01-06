@@ -21,3 +21,7 @@
 - [] [Fluent Python](https://books.google.co.uk/books?id=bIZHCgAAQBAJ)
 - [] [Python Cookbook](https://books.google.co.uk/books?id=1Shx_VXS6ioC)
 - [] [Pro Python](https://books.google.co.uk/books?id=3VgnCgAAQBAJ)
+
+## MISC.
+- [] [How to Lie with Statistics](https://goo.gl/V7e4tS)
+- [] [How to Win Friends and Influence People](https://books.google.co.uk/books?id=0dJDdw39UDMC&dq=how+to+win+friends+and+influence+people)
