@@ -12,7 +12,7 @@
   - [] [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
 - [] [10 Days of Javascript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
 - [] [Learn ES6 without leaving Dev.to](https://dev.to/andersonjoseph/learn-es6-without-leave-devto-57o3)
-- [] [Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript](https://books.google.co.uk/books?id=nBuA0hmspdMC)
+- [] [Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript](https://learning.oreilly.com/library/view/effective-javascript-68/9780132902281/)
 - [] [Eloquent JavaScript](https://eloquentjavascript.net/)
 
 ## Python
