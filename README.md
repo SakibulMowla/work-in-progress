@@ -14,6 +14,10 @@
 - [] [Learn ES6 without leaving Dev.to](https://dev.to/andersonjoseph/learn-es6-without-leave-devto-57o3)
 - [] [Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript](https://learning.oreilly.com/library/view/effective-javascript-68/9780132902281/)
 - [] [Eloquent JavaScript](https://eloquentjavascript.net/)
+- [] Testing
+  - [] [Sinon](https://sinonjs.org/)
+  - [] [Jest](https://jestjs.io/)
+  - [] [Stryker](https://stryker-mutator.io/)
 
 ## Python
 - [] [Python 101: The Basics](https://medium.com/the-renaissance-developer/python-101-the-basics-441136fb7cc3)
