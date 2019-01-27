@@ -1,7 +1,7 @@
 ## JavaScript
 - [] [Java Brains JS training videos](https://javabrains.io/topics/corejs/)
   - [x] [Introduction to JavaScript for Developers](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYFJxC9NLJ7dSTI5Z1WWB6K)
-  - [] [JavaScript Scopes and Closures In-depth](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZ_LyvzfrndUOkIvOF4y-_c)
+  - [x] [JavaScript Scopes and Closures In-depth](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZ_LyvzfrndUOkIvOF4y-_c)
   - [] [JavaScript Objects and Prototypes In-depth](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u)
 - [] [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)</summary>
   - [] [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
