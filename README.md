@@ -44,6 +44,22 @@
 - [] Structured Analysis
 - [] Structured Design
 
+## Disciplines
+- [] TDD
+- [] Object-Oriented design
+- [] Structured Programming
+- [] Continuous Integration
+- [] Pair Programming.
+
+## Artifacts
+- [] UML
+- [] DFDs
+- [] Structure Charts
+- [] Petri Nets
+- [] State Transition Diagrams and Tables
+- [] flow charts
+- [] decision tables.
+
 ## Misc.
 - [] [How to Lie with Statistics](https://goo.gl/V7e4tS)
 - [] [How to Win Friends and Influence People](https://books.google.co.uk/books?id=0dJDdw39UDMC&dq=how+to+win+friends+and+influence+people)
