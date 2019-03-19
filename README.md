@@ -31,6 +31,7 @@
 
 ## Design Patterns
 - [] [Design Patterns: Elements of Reusable Object-Oriented Software](https://books.google.co.uk/books/about/Design_Patterns.html?id=6oHuKQe3TjQC)
+- [] [Pattern-Oriented Software Architecture, A System of Patterns](https://books.google.co.uk/books?id=j_ahu_BS3hAC)
 - [] [Head First Design Patterns](https://books.google.co.uk/books/about/Head_First_Design_Patterns.html?id=GGpXN9SMELMC)
 - [] [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 
