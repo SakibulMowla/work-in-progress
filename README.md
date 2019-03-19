@@ -35,6 +35,15 @@
 - [] [Head First Design Patterns](https://books.google.co.uk/books/about/Head_First_Design_Patterns.html?id=GGpXN9SMELMC)
 - [] [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 
+## Methods
+- [] XP
+- [] Scrum
+- [] Lean
+- [] Kanban
+- [] Waterfall
+- [] Structured Analysis
+- [] Structured Design
+
 ## Misc.
 - [] [How to Lie with Statistics](https://goo.gl/V7e4tS)
 - [] [How to Win Friends and Influence People](https://books.google.co.uk/books?id=0dJDdw39UDMC&dq=how+to+win+friends+and+influence+people)
