@@ -18,6 +18,7 @@
   - [] [Sinon](https://sinonjs.org/)
   - [] [Jest](https://jestjs.io/)
   - [] [Stryker](https://stryker-mutator.io/)
+- [] [JS Crash Course](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
 ## Python
 - [] [Python 101: The Basics](https://medium.com/the-renaissance-developer/python-101-the-basics-441136fb7cc3)
