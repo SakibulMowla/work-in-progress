@@ -58,8 +58,8 @@
 - [ ] Structure Charts
 - [ ] Petri Nets
 - [ ] State Transition Diagrams and Tables
-- [ ] flow charts
-- [ ] decision tables.
+- [ ] Flow Charts
+- [ ] Decision Tables
 
 ## WebAssembly
 - [x] [Why the heck is everyone talking about WebAssembly?](https://dev.to/captainsafia/why-the-heck-is-everyone-talking-about-webassembly-455a)
