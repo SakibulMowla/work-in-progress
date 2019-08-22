@@ -38,10 +38,10 @@
 
 ## Methods
 - [ ] XP
-- [ ] Scrum
+- [x] Scrum
 - [ ] Lean
 - [ ] Kanban
-- [ ] Waterfall
+- [x] Waterfall
 - [ ] Structured Analysis
 - [ ] Structured Design
 
@@ -58,7 +58,7 @@
 - [ ] Structure Charts
 - [ ] Petri Nets
 - [ ] State Transition Diagrams and Tables
-- [ ] Flow Charts
+- [x] Flow Charts
 - [ ] Decision Tables
 
 ## WebAssembly
