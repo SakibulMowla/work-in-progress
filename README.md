@@ -17,6 +17,7 @@
 - [ ] Testing
   - [ ] [Sinon](https://sinonjs.org/)
   - [ ] [Jest](https://jestjs.io/)
+    - [x] [Jest Kickoff Tutorial](https://www.valentinog.com/blog/jest/)
   - [ ] [Stryker](https://stryker-mutator.io/)
 - [ ] [JS Crash Course](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
