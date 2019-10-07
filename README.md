@@ -77,3 +77,4 @@
 - [ ] [How to Lie with Statistics](https://goo.gl/V7e4tS)
 - [ ] [How to Win Friends and Influence People](https://books.google.co.uk/books?id=0dJDdw39UDMC&dq=how+to+win+friends+and+influence+people)
 - [ ] [Working Effectively with Legacy Code](https://learning.oreilly.com/library/view/working-effectively-with/0131177052/)
+- [ ] [Mature Optimization: An Introduction](http://carlos.bueno.org/optimization/)
