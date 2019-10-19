@@ -34,6 +34,9 @@
 ## regex
 - [ ] [regexr](https://regexr.com/)
 
+## Docker
+- [ ] [5 part Docker series, beginner to master](https://dev.to/softchris/5-part-docker-series-beginner-to-master-3m1b)
+
 ## Design Patterns
 - [ ] [Design Patterns: Elements of Reusable Object-Oriented Software](https://books.google.co.uk/books/about/Design_Patterns.html?id=6oHuKQe3TjQC)
 - [ ] [Pattern-Oriented Software Architecture, A System of Patterns](https://books.google.co.uk/books?id=j_ahu_BS3hAC)
