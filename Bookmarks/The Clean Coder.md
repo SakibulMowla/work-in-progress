@@ -45,3 +45,5 @@ iii. You are not allowed to write more production code that is sufficient to pas
 i. Open Source
 ii. if you are a Java programmer, contribute to a Rails project. If you write a lot of C++ for your employer, find a Python project and contribute to it.
 
+### Acceptance Testing
+- 
