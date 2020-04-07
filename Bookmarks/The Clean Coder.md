@@ -28,10 +28,11 @@
 ### Test Driven Development:
 - GOTO is harmful
 - TDD works
-THE THREE LAWS OF TDD
-i. You are not allowed to write any production code until you have first written a failing unit test
-ii. You are not allowed to write more of a unit test than is sufficient to fail—and not compiling is failing
-iii. You are not allowed to write more production code that is sufficient to pass the currently failing unit test
+THE THREE LAWS OF TDD:
+  1. You are not allowed to write any production code until you have first written a failing unit test
+  2. You are not allowed to write more of a unit test than is sufficient to fail—and not compiling is failing
+  3. You are not allowed to write more production code that is sufficient to pass the currently failing unit test
+
 - the tests you write after the fact are defense. The tests you write first are offense
 
 ### Practicing:
@@ -42,8 +43,8 @@ iii. You are not allowed to write more production code that is sufficient to pas
 - Wasa is very much like a two-man kata.
 - One programmer writes a unit test, and then the other must make it pass. Then they reverse roles.
 - BROADENING YOUR EXPERIENCE
-i. Open Source
-ii. if you are a Java programmer, contribute to a Rails project. If you write a lot of C++ for your employer, find a Python project and contribute to it.
+  1. Open Source
+  2. if you are a Java programmer, contribute to a Rails project. If you write a lot of C++ for your employer, find a Python project and contribute to it.
 
 ### Acceptance Testing
 - 
