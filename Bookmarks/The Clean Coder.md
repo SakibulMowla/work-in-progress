@@ -47,4 +47,9 @@ THE THREE LAWS OF TDD:
   2. if you are a Java programmer, contribute to a Rails project. If you write a lot of C++ for your employer, find a Python project and contribute to it.
 
 ### Acceptance Testing
-- 
+- Business people want to know exactly what they are going to get before they authorize a project. Developers want to know exactly what they are supposed to deliver before they estimate the project.
+- professional developers always include error bars with their estimates so that the business understands the uncertainty
+- Done means done. Done means all code written, all tests pass, QA and the stakeholders have accepted. Done.
+- The purpose of acceptance tests is communication, clarity, and precision
+- By agreeing to them, the developers, stakeholders, and testers all understand what the plan for the system behavior is
+- Acceptance tests should always be automated
