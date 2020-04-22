@@ -53,3 +53,11 @@ THE THREE LAWS OF TDD:
 - The purpose of acceptance tests is communication, clarity, and precision
 - By agreeing to them, the developers, stakeholders, and testers all understand what the plan for the system behavior is
 - Acceptance tests should always be automated
+- Acceptance tests are not unit tests
+- Unit tests are written by programmers for programmers
+- Acceptance tests are written by the business for the business (even when you, the developer, end up writing them)
+- Unit tests and acceptance tests are documents first, and tests second
+- Their primary purpose is to formally document the design, structure, and behavior of the system
+- Make sure that all your unit tests and acceptance tests are run several times per day in a continuous integration system
+
+### Testing Strategies
