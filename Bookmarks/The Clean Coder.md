@@ -61,3 +61,9 @@ THE THREE LAWS OF TDD:
 - Make sure that all your unit tests and acceptance tests are run several times per day in a continuous integration system
 
 ### Testing Strategies
+- it should be the goal of the development group that QA find nothing wrong
+- Unit Tests: These tests are written by programmers, for programmers, in the programming language of the system
+- Component Test: A component test wraps a component. It passes input data into the component and gathers output data from it. It tests that the output matches the input. Any other system components are decoupled from the test using appropriate mocking and test-doubling techniques.
+- Integration Test: these tests assemble groups of components and test how well they communicate with each other. The tests ensure that the architectural structure of the system is sound. It is at this level that we might see performance and throughput tests.
+- System Tests: These are automated tests that execute against the entire integrated system
+- Manual Exploratory Tests: This is where humans put their hands on the keyboards and their eyes on the screens. These tests are not automated, nor are they scripted.
