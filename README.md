@@ -53,7 +53,7 @@
 - [ ] Structured Design
 
 ## Disciplines
-- [ ] TDD
+- [x] TDD
 - [ ] Object-Oriented design
 - [ ] Structured Programming
 - [ ] Continuous Integration
