@@ -84,4 +84,5 @@
 - [ ] [
 Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://books.google.co.uk/books/about/Clean_Architecture.html?id=8ngAkAEACAAJ&redir_esc=y)
 - [ ] [Humble Pi: A Comedy of Maths Errors]
+- [ ] [Designing Data-Intensive Applications]
 
