@@ -88,8 +88,8 @@ Clean Architecture: A Craftsman's Guide to Software Structure and Design](https:
 
 ## Finance
 - [ ] Unshakeable
-- [ ] InvestED
-- [ ] The Little Book of Common Sense Investing
 - [ ] The Little Book That Still Beats The Market
+- [ ] The Little Book of Common Sense Investing
+- [ ] InvestED
 - [ ] The Dhando Investor
 - [ ] Rich Dad Poor Dad
