@@ -28,6 +28,10 @@
 - [ ] [Python Cookbook](https://books.google.co.uk/books?id=1Shx_VXS6ioC)
 - [ ] [Pro Python](https://books.google.co.uk/books?id=3VgnCgAAQBAJ)
 
+## Database
+- [ ] [Pros and Cons: When You Should and Should Not Use MongoDB](https://www.percona.com/blog/pros-and-cons-when-you-should-and-should-not-use-mongodb/)
+- [ ] [Schema Design in MongoDB vs Schema Design in MySQL](https://www.percona.com/blog/2013/08/01/schema-design-in-mongodb-vs-schema-design-in-mysql/)
+
 ## git
 - [x] [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 
