@@ -90,7 +90,7 @@ Clean Architecture: A Craftsman's Guide to Software Structure and Design](https:
 - [ ] [Humble Pi: A Comedy of Maths Errors]
 - [ ] [Designing Data-Intensive Applications]
 - [ ] [Fluent in 3 Months: Tips and Techniques to Help You Learn Any Language]
-- [ ] The Clean Coder
+- [x] The Clean Coder
 - [ ] The Pragmatic Programmer
 
 ## Finance
