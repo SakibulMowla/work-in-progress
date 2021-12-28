@@ -95,7 +95,7 @@ Clean Architecture: A Craftsman's Guide to Software Structure and Design](https:
 
 ## Finance
 - [ ] Unshakeable
-- [ ] The Little Book That Still Beats The Market
+- [x] The Little Book That Still Beats The Market
 - [ ] The Little Book of Common Sense Investing
 - [ ] InvestED
 - [ ] The Dhando Investor
