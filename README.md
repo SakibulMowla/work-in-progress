@@ -94,9 +94,9 @@ Clean Architecture: A Craftsman's Guide to Software Structure and Design](https:
 - [ ] The Pragmatic Programmer
 
 ## Finance
-- [ ] Unshakeable
 - [x] The Little Book That Still Beats The Market
-- [ ] The Little Book of Common Sense Investing
-- [ ] InvestED
-- [ ] The Dhando Investor
+- [ ] Unshakeable: Your Financial Freedom Playbook
+- [ ] Little Book of Common Sense Investing: The Only Way to Guarantee Your Fair Share of Stock Market Returns
+- [ ] Invested: How Warren Buffett and Charlie Munger Taught Me to Master My Mind, My Emotions, and My Money (with a Little Help from My Dad)
+- [ ] The Dhandho Investor: The Low-Risk Value Method to High Returns
 - [ ] Rich Dad Poor Dad
