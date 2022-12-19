@@ -100,3 +100,7 @@ Clean Architecture: A Craftsman's Guide to Software Structure and Design](https:
 - [ ] Invested: How Warren Buffett and Charlie Munger Taught Me to Master My Mind, My Emotions, and My Money (with a Little Help from My Dad)
 - [ ] The Dhandho Investor: The Low-Risk Value Method to High Returns
 - [ ] Rich Dad Poor Dad
+
+## AI
+- [ ] [Practical Deep Learning for Coders](https://course.fast.ai/Lessons/lesson1.html)
+- [ ] [Dive into Deep Learning](http://d2l.ai/)
